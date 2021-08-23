@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thinzarthethmuezin
 - 👀 I’m interested in ...Web Developer
-- 🌱 I’m currently learning ...html,css,java script
+- 🌱 I’m currently learning ...Front end Developer
 - 💞️ I’m looking to collaborate on ...MMSIT
 - 📫 How to reach me ...icecream97.tz@gmail.com
 
